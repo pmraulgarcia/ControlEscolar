@@ -1,6 +1,7 @@
 <script src="jquery.min.js"></script>
 
 <?php
+    //Comentario Ejemplo
     require('bd.php');
     require ('Materia.php');
     require ('header.php');
